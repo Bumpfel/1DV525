@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" type="text/css" href="../styles/structure.css" />
+        <link rel="stylesheet" type="text/css" href="../styles/style.css" />
+        <title>Contact</title>
+    </head>
+    
+    <body>
+        <nav>
+            <ul>
+                <a href="../index.html"><li>Home</li></a>
+                <a href="contact.html"><li>Contact</li></a>
+                <a href="blog.html"><li>Blog</li></a>
+                <a href="about.html"><li>About</li></a>
+            </ul>
+        </nav>
+        
+        
+        <main>
+            <h1>Contact</h1>
+            <form method="POST" style="padding: 10px">
+                <input type="text" name="name" autocomplete="off" placeholder="Your name">
+                <br>
+                <input type="text" name="email" placeholder="Your e-mail">
+                <br>
+                
+                <select name="questiontype">
+                    <option>-- Type of Question --</option>
+                    <option>Technical</option>
+                    <option>Subscription</option>
+                    <option>Other</option>
+                </select>
+                <br>
+                
+                <textarea name="Question" cols="50" rows="15" placeholder="Type your question..."></textarea>
+                <br>
+                
+                <input type="checkbox" name="ads" checked>
+                <label for="ads">Oh btw, I would like to receive junk mail from you!</label>
+                <br>
+                
+                <input type="submit" name="send">
+            </form>
+        </main>
+    </body>
+</html>

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Arsenal",
+    "nickname": "Gunners",
+    "url": "https://www.arsenal.com"
+  },
+  {
+    "id": 127,
+    "name": "Bournemouth",
+    "nickname": "Cherries",
+    "url": "http://www.afcb.co.uk"
+  },
+  {
+    "id": 131,
+    "name": "Brighton and Hove Albion",
+    "nickname": "Seagulls",
+    "url": "https://www.brightonandhovealbion.com"
+  },
+  {
+    "id": 43,
+    "name": "Burnley",
+    "nickname": "Clarets",
+    "url": "https://www.burnleyfootballclub.com"
+  },
+  {
+    "id": 4,
+    "name": "Chelsea",
+    "nickname": "Pensioners",
+    "url": "https://www.chelseafc.com"
+  },
+  {
+    "id": 6,
+    "name": "Crystal Palace",
+    "nickname": "Eagles",
+    "url": "http://www.cpfc.co.uk"
+  },
+  {
+    "id": 7,
+    "name": "Everton",
+    "nickname": "Toffees",
+    "url": "http://www.evertonfc.com"
+  },
+  {
+    "id": 159,
+    "name": "Huddersfield Town",
+    "nickname": "Terriers",
+    "url": "https://www.htafc.com"
+  },
+  {
+    "id": 26,
+    "name": "Leicester City",
+    "nickname": "Foxes",
+    "url": "http://www.lcfc.com"
+  },
+  {
+    "id": 10,
+    "name": "Liverpool",
+    "nickname": "Reds",
+    "url": "http://www.liverpoolfc.com"
+  },
+  {
+    "id": 11,
+    "name": "Manchester City",
+    "nickname": "Citizens",
+    "url": "https://www.mancity.com"
+  },
+  {
+    "id": 12,
+    "name": "Manchester United",
+    "nickname": "Red Devils",
+    "url": "http://www.manutd.com"
+  },
+  {
+    "id": 23,
+    "name": "Newcastle United",
+    "nickname": "Toon",
+    "url": "http://www.nufc.co.uk"
+  },
+  {
+    "id": 20,
+    "name": "Southampton",
+    "nickname": "Saints",
+    "url": "https://www.southamptonfc.com"
+  },
+  {
+    "id": 42,
+    "name": "Stoke City",
+    "nickname": "Potters",
+    "url": "http://www.stokecityfc.com"
+  },
+  {
+    "id": 45,
+    "name": "Swansea City",
+    "nickname": "Swans",
+    "url": "http://www.swanseacity.com"
+  },
+  {
+    "id": 21,
+    "name": "Tottenham Hotspur",
+    "nickname": "Spurs",
+    "url": "http://www.tottenhamhotspur.com"
+  },
+  {
+    "id": 33,
+    "name": "Watford",
+    "nickname": "Hornets",
+    "url": "https://www.watfordfc.com"
+  },
+  {
+    "id": 36,
+    "name": "West Bromwich Albion",
+    "nickname": "Baggies",
+    "url": "http://www.wba.co.uk"
+  },
+  {
+    "id": 25,
+    "name": "West Ham United",
+    "nickname": "Hammers",
+    "url": "http://www.whufc.com"
+  }
+]

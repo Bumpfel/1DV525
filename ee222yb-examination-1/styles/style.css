@@ -1,0 +1,15 @@
+form {
+    line-height: 30px;
+}
+
+textarea {
+    resize: none;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}

@@ -1,0 +1,12 @@
+/* TEAM */
+
+Almighty creator: Eric Enoksson
+Location: Sweden
+
+
+/* SITE */
+
+Last update: 2019/09/06
+Language: English
+Standards: HTML5, CSS3
+Software: Visual Studio Code

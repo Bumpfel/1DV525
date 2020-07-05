@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head prefix="og: http://ogp.me/ns#">
+        <meta charset="utf-8" />
+        <link rel="stylesheet" type="text/css" href="../styles/structure.css" />
+        <link rel="stylesheet" type="text/css" href="../styles/style.css" />
+        <title>Blog</title>
+
+        <meta property="og:title" content="blog" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://1dv525.github.io/ee222yb-examination-1/pages/blog.html" />
+        <meta property="og:image" content="https://1dv525.github.io/ee222yb-examination-1/images/funny-kid.jpg" />
+    </head>
+    
+    <body>
+        <nav>
+            <ul>
+                <a href="../index.html"><li>Home</li></a>
+                <a href="contact.html"><li>Contact</li></a>
+                <a href="blog.html"><li>Blog</li></a>
+                <a href="about.html"><li>About</li></a>
+            </ul>
+        </nav>
+
+        <main>
+            <h1>Blog</h1> 
+            
+            <article title="Robots">
+                <h2>What is robots.txt and how have you configured it for your site?</h2>
+                Robots.txt is a file located in the root folder that helps bots, like search engines, knowing which pages not to index.
+                It is set up, so all bots avoids indexing contact.html
+            </article>
+            
+            <article title="Humans">
+                <h2>What is humans.txt and how have you configured it for your site?</h2>
+                Humans.txt is a meta text file that should be placed in the root folder containing information about the creators of the site.
+                Instead of putting that information in a html file, it has it's own txt file containing only that information. 
+                On this site there is a link to the file on the index page; also, using <code class="blue">&lt;link rel="author" href="humans.txt" /&gt;</code> allows e.g. for search engine indexing as such:
+                <img src="../images/rel-author-perhaps.png" title="author explanation">
+            </article>
+
+            <article title="Open Graph">
+                <h2>What is Open Graph and how do you make use of it?</h2>
+                Open graph was developed by Facebook and allows for easy integration between a webpage and social media. 
+                It decides what part of the website (e.g. an article) should be shared on the social media platform, and links it to user data, so that e.g. facebook can track how many times an article has been shared.
+                <br>
+                <br>
+                To use it on your page, you need to put meta tags for title, type, image, and url in the head element.
+            </article>
+                
+            <article title="HTML and CSS - Separation of Concerns">
+                <h2>Why is it important to separate the layout and design (css) from content (html)?</h2>
+                To avoid code duplication and reusability - it's easier to change the design when you don't have to change in multiple places, and it's also easier to apply the same design on new content.
+            </article>
+        </main>
+    </body>
+</html>

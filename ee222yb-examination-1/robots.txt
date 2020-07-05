@@ -1,0 +1,3 @@
+# Blocks contact page from being indexed
+User-Agent: *
+Disallow: /pages/contact.html

@@ -1,0 +1,10 @@
+body {
+	/* background: rgba(70, 144, 187, 0.74); */
+	background: rgb(147, 96, 204);
+	background-image: url('../image/beach-sunset.jpg');
+	background-repeat: no-repeat;
+	background-attachment: center;
+	background-size: cover;
+	margin: 0;
+	overflow: hidden;
+}

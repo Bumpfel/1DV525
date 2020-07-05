@@ -1,0 +1,33 @@
+#highscore {
+  width: 300px;
+  margin-top: 20px;
+  padding: 10px;
+  padding-top: 0;
+  border: 1px dotted black;
+}
+
+#highscore table {
+  text-align: left;
+  word-break: break-all;
+  border-spacing: 0;
+}
+
+#highscore td {
+  padding: 5px;
+}
+
+#highscore tr:nth-child(2n) {
+  background-color: white;
+}
+
+#highscore th:first-child {
+  width: 200px;
+}
+
+.feedback {
+  font-weight: bold;
+}
+
+.red {
+  color: red;
+}
