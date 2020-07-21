@@ -29,7 +29,7 @@
     "node": ">=7.0.0"
   },
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "css-loader": "^1.0.0",
